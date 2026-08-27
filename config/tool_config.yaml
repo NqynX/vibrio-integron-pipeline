@@ -16,24 +16,16 @@ tools:
     version_cmd: ""
     output_format: "custom_tsv"
     status: "installed"
-    notes: "C binary, compiled with make. Output has hit table (ID, start, end, Vscore) followed by sequence annotations."
+    notes: "C binary, compiled with make. Output: hit table (ID, start, end, Vscore) + sequence annotations."
     usage: "./hattci.out [-b] [-t threads] [-s chunksize] <input.fasta> <output_file>"
 
   ivip:
     name: "I-VIP"
-    environment: "ivip"
-    activate: "micromamba activate ivip"
-    executable: ""
-    version_cmd: ""
-    output_format: ""
-    status: "pending"
+    status: "excluded"
+    notes: "Python 2/3 incompatibility, Biopython API issues, incomplete translation extraction. Only detects class 1 integrons. See docs/workflow_documentation/ivip_installation_notes.md."
 
   xxr:
     name: "XXR"
-    environment: ""
-    activate: ""
-    executable: ""
-    output_format: ""
     status: "not_available"
     notes: "Rowe-Magnus et al. 2003. Not found in any public repository."
 
@@ -44,3 +36,7 @@ excluded_tools:
     reason: "Not reproducibly installable"
   - name: "ATTACCA/RAC"
     reason: "Not reproducibly installable"
+  - name: "I-VIP"
+    reason: "Python 2/3 incompatibility, Biopython issues, class 1 only. See docs/workflow_documentation/ivip_installation_notes.md"
+  - name: "XXR"
+    reason: "Not found in any public repository"
