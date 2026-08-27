@@ -1,0 +1,46 @@
+tools:
+  integronfinder:
+    name: "IntegronFinder 2.0.2"
+    environment: "integronfinder"
+    activate: "micromamba activate integronfinder"
+    executable: "integron_finder"
+    version_cmd: "integron_finder --version"
+    output_format: "gff"
+    status: "installed"
+
+  hattci:
+    name: "HattCI 1.0b"
+    environment: "hattci"
+    activate: "micromamba activate hattci"
+    executable: "/scratch/user/uqcngu19/vibrio-integron-pipeline/environments/hattci_src/HattCI/hattci.out"
+    version_cmd: ""
+    output_format: "custom_tsv"
+    status: "installed"
+    notes: "C binary, compiled with make. Output has hit table (ID, start, end, Vscore) followed by sequence annotations."
+    usage: "./hattci.out [-b] [-t threads] [-s chunksize] <input.fasta> <output_file>"
+
+  ivip:
+    name: "I-VIP"
+    environment: "ivip"
+    activate: "micromamba activate ivip"
+    executable: ""
+    version_cmd: ""
+    output_format: ""
+    status: "pending"
+
+  xxr:
+    name: "XXR"
+    environment: ""
+    activate: ""
+    executable: ""
+    output_format: ""
+    status: "not_available"
+    notes: "Rowe-Magnus et al. 2003. Not found in any public repository."
+
+excluded_tools:
+  - name: "IntegronFinder v1"
+    reason: "Superseded by IntegronFinder 2"
+  - name: "ACID"
+    reason: "Not reproducibly installable"
+  - name: "ATTACCA/RAC"
+    reason: "Not reproducibly installable"
