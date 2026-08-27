@@ -1,0 +1,38 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+NC_002506.1          -         attC_4               -          cm        1       47     2883     3009      +    no    1 0.44   0.0   34.9   2.1e-05 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     8270     8397      +    no    1 0.55   0.0   32.0   0.00011 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     7734     7862      +    no    1 0.55   0.0   32.0   0.00012 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    13686    13813      +    no    1 0.53   0.0   31.4   0.00016 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    16034    16161      +    no    1 0.55   0.0   30.7   0.00025 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     1479     1607      +    no    1 0.47   0.0   30.4   0.00029 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    15031    15158      +    no    1 0.52   0.0   30.1   0.00036 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47      602      729      +    no    1 0.57   0.0   29.7   0.00045 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     1911     2036      +    no    1 0.47   0.0   29.5   0.00049 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     3412     3541      +    no    1 0.55   0.0   28.7   0.00082 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    11330    11458      +    no    1 0.53   0.0   28.2     0.001 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    10466    10594      +    no    1 0.50   0.0   25.3    0.0058 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     3874     3999      +    no    1 0.52   0.0   25.2    0.0062 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    12642    12770      +    no    1 0.53   0.0   25.0    0.0068 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    14371    14499      +    no    1 0.56   0.0   23.8     0.014 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    16570    16698      +    no    1 0.55   0.0   23.6     0.015 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     4451     4578      +    no    1 0.55   0.0   23.6     0.016 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    13177    13304      +    no    1 0.54   0.0   23.1     0.021 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     2399     2524      +    no    1 0.46   0.0   22.2     0.035 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     6673     6801      +    no    1 0.55   0.0   22.2     0.035 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     5223     5350      +    no    1 0.52   0.0   21.3     0.061 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    11833    11961      +    no    1 0.53   0.0   20.3      0.11 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     7197     7324      +    no    1 0.55   0.0   19.8      0.14 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47    17163    17291      +    no    1 0.53   0.0   19.5      0.17 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     9083     9211      +    no    1 0.53   0.0   17.9      0.42 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+NC_002506.1          -         attC_4               -          cm        1       47     6138     6266      +    no    1 0.56   0.0   17.6      0.51 !   Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+#
+# Program:         cmsearch
+# Version:         1.1.4 (Dec 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/user/uqcngu19/envs/integronfinder/lib/python3.9/site-packages/integron_finder/data/Models/attc_4.cm
+# Target file:     /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integronfinder/reference_test/Results_Integron_Finder_GCF_000006745.1_ASM674v1_genomic/tmp_NC_002506.1/NC_002506.1_subseq.fst
+# Option settings: /scratch/user/uqcngu19/envs/integronfinder/bin/cmsearch -Z 1.072315 -A /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integronfinder/reference_test/Results_Integron_Finder_GCF_000006745.1_ASM674v1_genomic/tmp_NC_002506.1/NC_002506.1_310712_328525_subseq_attc.res --tblout /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integronfinder/reference_test/Results_Integron_Finder_GCF_000006745.1_ASM674v1_genomic/tmp_NC_002506.1/NC_002506.1_310712_328525_subseq_attc_table.res -E 10 --incE 1.0 --max --toponly --cpu 1 /scratch/user/uqcngu19/envs/integronfinder/lib/python3.9/site-packages/integron_finder/data/Models/attc_4.cm /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integronfinder/reference_test/Results_Integron_Finder_GCF_000006745.1_ASM674v1_genomic/tmp_NC_002506.1/NC_002506.1_subseq.fst 
+# Current dir:     /scratch/user/uqcngu19/vibrio-integron-pipeline
+# Date:            Mon Aug 10 10:09:55 2026
+# [ok]
