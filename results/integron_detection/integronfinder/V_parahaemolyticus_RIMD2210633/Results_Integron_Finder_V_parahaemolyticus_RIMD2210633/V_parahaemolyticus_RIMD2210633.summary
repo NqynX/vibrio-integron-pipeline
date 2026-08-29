@@ -1,0 +1,4 @@
+# cmd: integron_finder /scratch/user/uqcngu19/vibrio-integron-pipeline/data/reference_genomes/V_parahaemolyticus_RIMD2210633/V_parahaemolyticus_RIMD2210633.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_parahaemolyticus_RIMD2210633
+ID_replicon	CALIN	complete	In0	topology	size
+NC_004603.1	0	1	0	lin	3288558
+NC_004605.1	0	0	0	lin	1877212

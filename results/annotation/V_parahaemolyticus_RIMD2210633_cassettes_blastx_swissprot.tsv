@@ -1,0 +1,16 @@
+sample|NC_004603.1|cassette_001	sp|O67327|CSP_AQUAE	34.921	63	39	2	458	276	7	69	8.13e-06	45.4	Cold shock-like protein OS=Aquifex aeolicus (strain VF5) OX=224324 GN=csp PE=3 SV=1
+sample|NC_004603.1|cassette_002	sp|Q9CXS4|CENPV_MOUSE	37.113	97	60	1	393	103	124	219	8.28e-13	72.0	Centromere protein V OS=Mus musculus OX=10090 GN=Cenpv PE=1 SV=2
+sample|NC_004603.1|cassette_006	sp|P52760|RIDA_MOUSE	31.858	113	73	2	348	19	15	126	9.74e-15	68.9	2-iminobutanoate/2-iminopropanoate deaminase OS=Mus musculus OX=10090 GN=Rida PE=1 SV=3
+sample|NC_004603.1|cassette_015	sp|P37584|CSAA_BACSU	54.286	105	48	0	315	1	5	109	9.24e-30	112	Probable chaperone CsaA OS=Bacillus subtilis (strain 168) OX=224308 GN=csaA PE=1 SV=2
+sample|NC_004603.1|cassette_019	sp|P55546|Y4LF_SINFN	47.319	317	161	3	945	10	4	319	6.59e-91	278	Uncharacterized protein y4lF OS=Sinorhizobium fredii (strain NBRC 101917 / NGR234) OX=394 GN=NGR_a02690 PE=4 SV=1
+sample|NC_004603.1|cassette_022	sp|Q58276|Y866_METJA	34.884	129	75	5	398	18	6	127	7.66e-14	70.9	Uncharacterized HIT-like protein MJ0866 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0866 PE=4 SV=2
+sample|NC_004603.1|cassette_024	sp|P69349|YOEB_SHIFL	65.000	80	28	0	263	24	5	84	3.18e-32	122	Toxin YoeB OS=Shigella flexneri OX=623 GN=yoeB PE=3 SV=1
+sample|NC_004603.1|cassette_027	sp|A3KNW0|PLD6_DANRE	32.117	137	84	4	402	4	83	214	1.94e-10	63.2	Mitochondrial cardiolipin hydrolase OS=Danio rerio OX=7955 GN=pld6 PE=2 SV=2
+sample|NC_004603.1|cassette_028	sp|O34569|YOAA_BACSU	24.832	149	111	1	2789	2346	1	149	7.18e-13	71.2	Uncharacterized N-acetyltransferase YoaA OS=Bacillus subtilis (strain 168) OX=224308 GN=yoaA PE=3 SV=2
+sample|NC_004603.1|cassette_029	sp|O67327|CSP_AQUAE	34.921	63	39	2	905	723	7	69	6.10e-06	47.0	Cold shock-like protein OS=Aquifex aeolicus (strain VF5) OX=224324 GN=csp PE=3 SV=1
+sample|NC_004603.1|cassette_030	sp|Q03036|IRC4_YEAST	33.607	122	75	2	866	519	45	166	5.90e-11	65.1	Uncharacterized protein IRC4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IRC4 PE=1 SV=1
+sample|NC_004603.1|cassette_032	sp|P44052|Y787_HAEIN	50.000	146	66	2	447	13	58	197	1.61e-39	147	Uncharacterized protein HI_0787 OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) OX=71421 GN=HI_0787 PE=4 SV=1
+sample|NC_004603.1|cassette_038	sp|Q6D8U7|Y875_PECAS	35.772	123	76	2	431	66	3	123	7.83e-15	70.1	Acetyltransferase ECA0875 OS=Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX=218491 GN=ECA0875 PE=3 SV=1
+sample|NC_004603.1|cassette_040	sp|Q58276|Y866_METJA	34.884	129	75	5	1136	756	6	127	8.78e-14	71.2	Uncharacterized HIT-like protein MJ0866 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0866 PE=4 SV=2
+sample|NC_004603.1|cassette_043	sp|Q03036|IRC4_YEAST	33.607	122	75	2	1587	1240	45	166	6.63e-11	65.1	Uncharacterized protein IRC4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IRC4 PE=1 SV=1
+sample|NC_004603.1|cassette_044	sp|O17731|SAT_CAEEL	29.293	99	65	2	320	24	51	144	1.30e-08	54.3	Thialysine N-epsilon-acetyltransferase OS=Caenorhabditis elegans OX=6239 GN=D2023.4 PE=1 SV=1

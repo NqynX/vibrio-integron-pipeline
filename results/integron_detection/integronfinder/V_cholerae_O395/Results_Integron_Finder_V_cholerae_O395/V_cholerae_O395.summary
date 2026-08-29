@@ -1,0 +1,4 @@
+# cmd: integron_finder /scratch/user/uqcngu19/vibrio-integron-pipeline/data/reference_genomes/V_cholerae_O395/V_cholerae_O395.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_cholerae_O395
+ID_replicon	CALIN	complete	In0	topology	size
+NC_009457.1	0	0	0	lin	3024069
+NC_009456.1	2	1	0	lin	1108250

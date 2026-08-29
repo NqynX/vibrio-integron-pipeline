@@ -1,0 +1,78 @@
+=== Pipeline for V_vulnificus_CMCP6 ===
+Step 1: IntegronFinder...
+[32mINFO     : [0m Writing out results for replicon NC_004460.2[0m
+[32mINFO     : [0m Merging integrons results.
+[0m
+Step 2: Building cassette table...
+
+Total cassettes: 0
+Output: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_vulnificus_CMCP6_cassettes.tsv
+Cassettes: 0
+No cassettes — skipping V_vulnificus_CMCP6
+
+=== Pipeline for V_parahaemolyticus_RIMD2210633 ===
+Step 1: IntegronFinder...
+[32mINFO     : [0m Writing out results for replicon NC_004605.1[0m
+[32mINFO     : [0m Merging integrons results.
+[0m
+Step 2: Building cassette table...
+integron_01: 45 attC sites on NC_004603.1
+
+Total cassettes: 44
+Output: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_parahaemolyticus_RIMD2210633_cassettes.tsv
+Cassettes: 44
+Step 3: Extracting cassette sequences...
+Replicons in genome: ['NC_004603.1', 'NC_004605.1']
+Cassette rows read: 44
+Sequences written: 44
+Combined FASTA: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_parahaemolyticus_RIMD2210633_cassettes.fasta
+Step 4: BLASTx against Swiss-Prot...
+Warning: [blastx] Examining 5 or more matches is recommended
+Step 5: RGI...
+=== Done: V_parahaemolyticus_RIMD2210633 ===
+
+=== Pipeline for V_cholerae_O395 ===
+Step 1: IntegronFinder...
+[32mINFO     : [0m Writing out results for replicon NC_009456.1[0m
+[32mINFO     : [0m Merging integrons results.
+[0m
+Step 2: Building cassette table...
+integron_01: 4 attC sites on NC_009456.1
+integron_02: 12 attC sites on NC_009456.1
+integron_03: 37 attC sites on NC_009456.1
+
+Total cassettes: 50
+Output: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_cholerae_O395_cassettes.tsv
+Cassettes: 50
+Step 3: Extracting cassette sequences...
+Replicons in genome: ['NC_009457.1', 'NC_009456.1']
+Cassette rows read: 50
+Sequences written: 50
+Combined FASTA: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_cholerae_O395_cassettes.fasta
+Step 4: BLASTx against Swiss-Prot...
+Warning: [blastx] Examining 5 or more matches is recommended
+Step 5: RGI...
+=== Done: V_cholerae_O395 ===
+
+=== Pipeline for V_fischeri_ES114 ===
+Step 1: IntegronFinder...
+[32mINFO     : [0m Writing out results for replicon NC_006842.1[0m
+[32mINFO     : [0m Merging integrons results.
+[0m
+Step 2: Building cassette table...
+integron_01: 4 attC sites on NC_006841.2
+
+Total cassettes: 3
+Output: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_fischeri_ES114_cassettes.tsv
+Cassettes: 3
+Step 3: Extracting cassette sequences...
+Replicons in genome: ['NC_006840.2', 'NC_006841.2', 'NC_006842.1']
+Cassette rows read: 3
+Sequences written: 3
+Combined FASTA: /scratch/user/uqcngu19/vibrio-integron-pipeline/results/cassette_reconstruction/V_fischeri_ES114_cassettes.fasta
+Step 4: BLASTx against Swiss-Prot...
+Warning: [blastx] Examining 5 or more matches is recommended
+Step 5: RGI...
+=== Done: V_fischeri_ES114 ===
+
+=== ALL PIPELINES COMPLETE ===

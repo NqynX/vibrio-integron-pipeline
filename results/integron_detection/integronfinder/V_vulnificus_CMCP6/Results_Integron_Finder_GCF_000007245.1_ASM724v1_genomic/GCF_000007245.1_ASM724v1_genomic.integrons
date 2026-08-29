@@ -1,0 +1,2 @@
+# cmd: integron_finder data/reference_genomes/V_vulnificus_CMCP6/GCF_000007245.1_ASM724v1_genomic.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_vulnificus_CMCP6
+# No Integron found

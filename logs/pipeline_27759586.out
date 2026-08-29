@@ -1,0 +1,34 @@
+=== Pipeline for V_vulnificus_CMCP6 ===
+Step 1: IntegronFinder...
+    raise RuntimeError(msg)
+RuntimeError: cannot find 'cmsearch' in PATH.
+Please install infernal package or setup 'cmsearch' binary path with --cmsearch option
+Step 2: Building cassette table...
+Cassettes: 0
+No cassettes — skipping V_vulnificus_CMCP6
+
+=== Pipeline for V_parahaemolyticus_RIMD2210633 ===
+Step 1: IntegronFinder...
+    raise RuntimeError(msg)
+RuntimeError: cannot find 'cmsearch' in PATH.
+Please install infernal package or setup 'cmsearch' binary path with --cmsearch option
+Step 2: Building cassette table...
+No integrons — skipping V_parahaemolyticus_RIMD2210633
+
+=== Pipeline for V_cholerae_O395 ===
+Step 1: IntegronFinder...
+    raise RuntimeError(msg)
+RuntimeError: cannot find 'cmsearch' in PATH.
+Please install infernal package or setup 'cmsearch' binary path with --cmsearch option
+Step 2: Building cassette table...
+No integrons — skipping V_cholerae_O395
+
+=== Pipeline for V_fischeri_ES114 ===
+Step 1: IntegronFinder...
+    raise RuntimeError(msg)
+RuntimeError: cannot find 'cmsearch' in PATH.
+Please install infernal package or setup 'cmsearch' binary path with --cmsearch option
+Step 2: Building cassette table...
+No integrons — skipping V_fischeri_ES114
+
+=== ALL PIPELINES COMPLETE ===

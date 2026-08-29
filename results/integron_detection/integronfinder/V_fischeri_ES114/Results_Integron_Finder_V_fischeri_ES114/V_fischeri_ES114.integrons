@@ -1,0 +1,15 @@
+# cmd: integron_finder /scratch/user/uqcngu19/vibrio-integron-pipeline/data/reference_genomes/V_fischeri_ES114/V_fischeri_ES114.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_fischeri_ES114
+ID_integron	ID_replicon	element	pos_beg	pos_end	strand	evalue	type_elt	annotation	model	type	default	distance_2attC	considered_topology
+integron_01	NC_006841.2	NC_006841.2_665	727937	728824	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	attc_001	728858	728964	-1	0.005	attC	attC	attc_4	complete	Yes	NA	lin
+integron_01	NC_006841.2	attc_002	729420	729544	-1	0.0028	attC	attC	attc_4	complete	Yes	456.0	lin
+integron_01	NC_006841.2	NC_006841.2_666	729551	730075	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_667	730330	730632	1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_668	730824	731234	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	attc_003	731797	731903	-1	0.0022	attC	attC	attc_4	complete	Yes	2253.0	lin
+integron_01	NC_006841.2	attc_004	732358	732484	-1	0.033	attC	attC	attc_4	complete	Yes	455.0	lin
+integron_01	NC_006841.2	NC_006841.2_669	732588	732890	1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_670	733032	733430	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_671	733701	734072	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_672	734270	734695	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	NC_006841.2	NC_006841.2_673	735018	736001	1	3.4000000000000005e-25	protein	intI	intersection_tyr_intI	complete	Yes	NA	lin

@@ -1,0 +1,4 @@
+# cmd: integron_finder /scratch/user/uqcngu19/vibrio-integron-pipeline/data/reference_genomes/V_vulnificus_CMCP6/V_vulnificus_CMCP6.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_vulnificus_CMCP6
+ID_replicon	CALIN	complete	In0	topology	size
+NC_004459.3	2	1	0	lin	3281866
+NC_004460.2	0	0	0	lin	1844830

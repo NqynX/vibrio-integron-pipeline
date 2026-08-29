@@ -1,0 +1,4 @@
+replicon	cassette_number	start	end	length	integron_id	upstream_attc	downstream_attc
+NC_006841.2	1	728965	729419	455	integron_01	attc_001	attc_002
+NC_006841.2	2	729545	731796	2252	integron_01	attc_002	attc_003
+NC_006841.2	3	731904	732357	454	integron_01	attc_003	attc_004
