@@ -1,4 +1,0 @@
-# cmd: integron_finder data/reference_genomes/V_cholerae_N16961/GCF_000006745.1_ASM674v1_genomic.fna --outdir results/integron_detection/integronfinder/N16961_fullgenome
-ID_replicon	CALIN	complete	In0	topology	size
-NC_002505.1	0	0	0	lin	2961149
-NC_002506.1	4	1	0	lin	1072315

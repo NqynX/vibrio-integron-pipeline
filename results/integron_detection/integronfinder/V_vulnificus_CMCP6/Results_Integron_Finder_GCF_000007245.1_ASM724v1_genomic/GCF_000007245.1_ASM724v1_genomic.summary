@@ -1,4 +1,0 @@
-# cmd: integron_finder data/reference_genomes/V_vulnificus_CMCP6/GCF_000007245.1_ASM724v1_genomic.fna --outdir /scratch/user/uqcngu19/vibrio-integron-pipeline/results/integron_detection/integronfinder/V_vulnificus_CMCP6
-ID_replicon	CALIN	complete	In0	topology	size
-NC_004556.1	0	0	0	lin	2519802
-NC_004554.1	0	0	0	lin	1346

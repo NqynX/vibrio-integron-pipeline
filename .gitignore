@@ -219,3 +219,16 @@ __marimo__/
 data/databases/
 localDB/
 rgi_autoload_*/
+
+# CARD databases
+card_database*.fasta
+wildcard_database*.fasta
+
+# Reference genome FASTAs (large)
+data/reference_genomes/*/ncbi_dataset/
+data/reference_genomes/*/README.md
+data/reference_genomes/*/md5sum.txt
+
+# Stray files
+dataformat
+--*
