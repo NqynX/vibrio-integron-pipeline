@@ -1,0 +1,912 @@
+accession,species,cassettes,defence_systems
+GCF_043765735.1,Vibrio cholerae,218,20
+GCF_001887395.1,Vibrio cholerae,220,20
+GCF_043760675.1,Vibrio cholerae,197,20
+GCF_043760105.1,Vibrio cholerae,202,20
+GCF_043763295.1,Vibrio cholerae,220,20
+GCF_043766955.1,Vibrio cholerae,220,20
+GCF_002892855.1,Vibrio cholerae,167,19
+GCF_017948285.1,Vibrio cholerae,167,19
+GCF_015482825.1,Vibrio cholerae C6706,167,19
+GCF_002749635.1,Vibrio cholerae,168,19
+GCF_046736365.1,Vibrio cholerae C6706,167,19
+GCF_043759795.1,Vibrio cholerae,168,19
+GCF_001887655.1,Vibrio cholerae,219,19
+GCF_000250855.1,Vibrio cholerae IEC224,170,19
+GCF_043756065.1,Vibrio cholerae,166,19
+GCF_013085075.1,Vibrio cholerae C6706,167,19
+GCF_044343075.1,Vibrio cholerae,167,19
+GCF_003063785.1,Vibrio cholerae,170,19
+GCF_013085105.1,Vibrio cholerae O1 biovar El Tor,167,19
+GCF_043755855.1,Vibrio cholerae,168,19
+GCF_043766185.1,Vibrio cholerae,170,19
+GCF_013085125.1,Vibrio cholerae O1 biovar El Tor,170,19
+GCF_043756335.1,Vibrio cholerae,168,19
+GCF_013085165.1,Vibrio cholerae O1 biovar El Tor,168,19
+GCF_003097695.1,Vibrio cholerae,167,19
+GCF_001887515.1,Vibrio cholerae,203,19
+GCF_002073335.2,Vibrio cholerae,170,19
+GCF_000006745.1,Vibrio cholerae O1 biovar El Tor str. N16961,170,19
+GCF_043769025.1,Vibrio cholerae,168,19
+GCF_900205735.1,Vibrio cholerae O1 biovar El Tor str. N16961,170,19
+GCF_002997215.1,Vibrio cholerae,167,19
+GCF_044343085.1,Vibrio cholerae,168,19
+GCF_001250235.2,Vibrio cholerae,170,19
+GCF_009763945.1,Vibrio cholerae C6706,166,19
+GCF_043758405.1,Vibrio cholerae,167,19
+GCF_044343165.1,Vibrio cholerae,168,19
+GCF_043762865.1,Vibrio cholerae,217,18
+GCF_001887455.1,Vibrio cholerae,217,18
+GCF_001887495.1,Vibrio cholerae,214,18
+GCF_001887635.1,Vibrio cholerae,176,17
+GCF_043757505.1,Vibrio cholerae,154,17
+GCF_001887415.1,Vibrio cholerae,206,17
+GCF_009646135.1,Vibrio cholerae O395,123,16
+GCF_000021625.1,Vibrio cholerae O395,128,16
+GCF_043757815.1,Vibrio cholerae,204,16
+GCF_052271875.1,Vibrio cholerae,125,16
+GCF_051903285.1,Vibrio cholerae,119,16
+GCF_000016245.1,Vibrio cholerae O395,125,16
+GCF_001683415.1,Vibrio cholerae 2740-80,192,14
+GCF_001887475.1,Vibrio cholerae,192,14
+GCF_001887615.1,Vibrio cholerae,168,14
+GCF_051903295.1,Vibrio cholerae,116,14
+GCF_009762985.1,Vibrio cholerae,191,14
+GCF_034008175.1,Vibrio cholerae,131,13
+GCF_053220615.1,Vibrio cholerae,241,13
+GCF_056770545.1,Vibrio cholerae,130,13
+GCF_034008165.1,Vibrio cholerae,130,13
+GCF_056770485.1,Vibrio cholerae,130,13
+GCF_900324445.1,Vibrio cholerae,116,13
+GCF_000166455.1,Vibrio cholerae O1 str. 2010EL-1786,130,13
+GCF_018336415.1,Vibrio cholerae O37,158,13
+GCF_937000105.1,Vibrio cholerae,130,13
+GCF_013085145.1,Vibrio cholerae O1 biovar El Tor,130,13
+GCF_044905055.1,Vibrio cholerae,132,13
+GCF_003719755.1,Vibrio cholerae,131,13
+GCF_001318185.1,Vibrio cholerae O1 str. KW3,130,13
+GCF_045689325.1,Vibrio cholerae V52,155,13
+GCF_041834225.2,Vibrio cholerae,128,13
+GCF_024734685.1,Vibrio cholerae,130,13
+GCF_021431865.1,Vibrio cholerae,131,13
+GCF_009763825.1,Vibrio cholerae,116,13
+GCF_900324455.1,Vibrio cholerae,115,13
+GCF_030718725.1,Vibrio cholerae,130,13
+GCF_056770575.1,Vibrio cholerae,130,13
+GCF_056770475.1,Vibrio cholerae,130,13
+GCF_900324425.1,Vibrio cholerae,116,13
+GCF_052956585.1,Vibrio cholerae,122,13
+GCF_000765415.1,Vibrio cholerae,131,13
+GCF_000963555.1,Vibrio cholerae O1 biovar El Tor,130,13
+GCF_000275645.1,Vibrio cholerae H1,130,13
+GCF_002946655.1,Vibrio cholerae O1 biovar El Tor,130,13
+GCF_017948345.1,Vibrio cholerae MO10,115,13
+GCF_056770535.1,Vibrio cholerae,133,13
+GCF_047524955.2,Vibrio cholerae,130,13
+GCF_013462495.1,Vibrio cholerae,115,13
+GCF_030718765.1,Vibrio cholerae,130,13
+GCF_019704255.1,Vibrio cholerae,130,13
+GCF_000022585.1,Vibrio cholerae MJ-1236,129,13
+GCF_019704235.1,Vibrio cholerae,131,13
+GCF_042604665.1,Vibrio cholerae,122,13
+GCF_050500225.1,Vibrio cholerae,130,13
+GCF_040412195.1,Vibrio cholerae,130,13
+GCF_030718745.1,Vibrio cholerae,130,13
+GCF_044905045.1,Vibrio cholerae,130,13
+GCF_009799825.1,Vibrio cholerae,130,13
+GCF_019458445.1,Vibrio cholerae,131,13
+GCF_003574155.1,Vibrio cholerae,107,12
+GCF_030062725.1,Vibrio cholerae,127,12
+GCF_021397735.1,Vibrio harveyi,135,11
+GCF_000829215.1,Vibrio cholerae MS6,193,11
+GCF_040556435.1,Vibrio cholerae,146,11
+GCF_051132235.1,Vibrio sp. SCSIO 43086,186,11
+GCF_052076115.1,Vibrio harveyi,135,11
+GCF_000021605.1,Vibrio cholerae M66-2,131,11
+GCF_043763905.1,Vibrio cholerae,163,10
+GCF_002257545.1,Vibrio qinghaiensis,377,10
+GCF_001887435.1,Vibrio cholerae,163,10
+GCF_013357785.1,Vibrio cholerae,293,10
+GCF_053220475.1,Vibrio cholerae,166,9
+GCF_000788715.2,Vibrio cholerae,147,9
+GCF_013357685.1,Vibrio cholerae,264,9
+GCF_028609705.1,Vibrio parahaemolyticus,81,9
+GCF_001854425.1,Vibrio cholerae,147,9
+GCF_013357745.1,Vibrio cholerae,242,9
+GCF_013357805.1,Vibrio cholerae,292,9
+GCF_002953355.1,Vibrio diabolicus,139,9
+GCF_053154035.1,Vibrio harveyi,121,9
+GCF_042848055.1,Vibrio harveyi,113,9
+GCF_024347395.1,Vibrio cortegadensis,171,9
+GCF_009938115.1,Vibrio cholerae O1,147,9
+GCF_046532655.1,Vibrio vulnificus,240,9
+GCF_013357765.1,Vibrio cholerae,240,9
+GCF_021730025.1,Vibrio parahaemolyticus,81,8
+GCF_000196095.1,Vibrio parahaemolyticus RIMD 2210633,65,8
+GCF_002073775.2,Vibrio parahaemolyticus,65,8
+GCF_043754845.1,Vibrio cholerae,132,8
+GCF_052076125.1,Vibrio parahaemolyticus,65,8
+GCF_028609685.1,Vibrio parahaemolyticus,81,8
+GCF_056674835.1,Vibrio alginolyticus,101,8
+GCF_057730815.1,Aliivibrio fischeri,105,8
+GCF_054906185.1,Vibrio cholerae,213,8
+GCF_046271965.1,Vibrio parahaemolyticus,65,8
+GCF_905175335.1,Vibrio sp. B1FIG11,98,8
+GCF_057439795.1,Vibrio harveyi,72,8
+GCF_033441455.1,Vibrio parahaemolyticus,190,8
+GCF_060301545.1,Vibrio parahaemolyticus,164,8
+GCF_039602145.1,Vibrio cholerae,175,8
+GCF_021729965.1,Vibrio parahaemolyticus,81,8
+GCF_055394615.1,Vibrio parahaemolyticus,63,8
+GCF_030552955.1,Vibrio parahaemolyticus,63,8
+GCF_002863725.1,Vibrio vulnificus,270,8
+GCF_028551315.1,Vibrio harveyi,106,8
+GCF_004006515.1,Vibrio parahaemolyticus,63,8
+GCF_002906455.1,Vibrio campbellii,87,8
+GCF_013393885.1,Vibrio parahaemolyticus,125,8
+GCF_057439825.1,Vibrio harveyi,72,8
+GCF_028228685.1,Vibrio parahaemolyticus,63,8
+GCF_055797365.1,Vibrio cholerae,197,8
+GCF_053220535.1,Vibrio cholerae,197,8
+GCF_029990625.1,Vibrio vulnificus,175,7
+GCF_900324435.1,Vibrio cholerae,216,7
+GCF_048914355.1,Vibrio parahaemolyticus,185,7
+GCF_040254425.1,Vibrio parahaemolyticus,311,7
+GCF_049384865.1,Vibrio harveyi,66,7
+GCF_013357725.1,Vibrio cholerae,191,7
+GCF_038050815.1,Vibrio parahaemolyticus,185,7
+GCF_057368575.1,Aliivibrio thorii,97,7
+GCF_013357825.1,Vibrio cholerae,287,7
+GCF_026970915.1,Vibrio parahaemolyticus,184,7
+GCF_000770115.1,Vibrio harveyi,91,7
+GCF_001558475.2,Vibrio mimicus,184,7
+GCF_051131125.1,Vibrio parahaemolyticus,129,7
+GCF_009665475.1,Vibrio vulnificus,256,7
+GCF_050920865.1,Vibrio parahaemolyticus,185,7
+GCF_057368635.1,Aliivibrio logei,112,7
+GCF_046118655.1,Vibrio parahaemolyticus,175,7
+GCF_038050985.1,Vibrio parahaemolyticus,185,7
+GCF_057368585.1,Aliivibrio thorii,97,7
+GCF_009665195.1,Vibrio mimicus,214,7
+GCF_052545415.1,Vibrio cholerae,240,7
+GCF_038741195.1,Vibrio parahaemolyticus,185,7
+GCF_049816175.1,Vibrio campbellii,95,7
+GCF_001675245.1,Vibrio vulnificus,257,7
+GCF_964264695.1,Aliivibrio logei,109,7
+GCF_013357845.1,Vibrio cholerae,262,7
+GCF_019670485.1,Vibrio alfacsensis,118,7
+GCF_046118645.1,Vibrio parahaemolyticus,163,7
+GCF_052953315.1,Vibrio parahaemolyticus,185,7
+GCF_000430425.1,Vibrio parahaemolyticus O1:K33 str. CDC_K4557,117,7
+GCF_050920685.1,Vibrio parahaemolyticus,120,6
+GCF_009763085.1,Vibrio alginolyticus,157,6
+GCF_046850195.1,Vibrio aestuarianus subsp. francensis,300,6
+GCF_023206775.1,Vibrio alginolyticus,98,6
+GCF_015767675.1,Vibrio navarrensis,311,6
+GCF_051903045.1,Vibrio parahaemolyticus,185,6
+GCF_037101305.1,Vibrio cholerae,230,6
+GCF_001682175.1,Vibrio parahaemolyticus,168,6
+GCF_040735825.1,Vibrio cholerae,152,6
+GCF_013393845.1,Vibrio parahaemolyticus,235,6
+GCF_009665275.1,Vibrio metoecus,220,6
+GCF_004328575.1,Vibrio cholerae,106,6
+GCF_045820715.1,Vibrio rotiferianus,77,6
+GCF_900185995.1,Vibrio cholerae,188,6
+GCF_036351935.1,Vibrio harveyi,80,6
+GCF_025917745.1,Vibrio parahaemolyticus,123,6
+GCF_030238725.2,Vibrio parahaemolyticus,110,6
+GCF_001188185.2,Vibrio parahaemolyticus,103,6
+GCF_002211985.1,Vibrio anguillarum,208,6
+GCF_002209725.2,Vibrio parahaemolyticus,168,6
+GCF_009763505.1,Vibrio parahaemolyticus,121,6
+GCF_056135565.1,Vibrio parahaemolyticus,146,6
+GCF_009763565.1,Vibrio parahaemolyticus,168,6
+GCF_009649015.1,Vibrio parahaemolyticus 10329,103,6
+GCF_057368515.1,Aliivibrio friggae,90,6
+GCF_025258945.1,Vibrio cholerae,135,6
+GCF_009763165.1,Vibrio parahaemolyticus,126,6
+GCF_057368495.1,Aliivibrio friggae,90,6
+GCF_003063885.1,Vibrio cholerae,226,6
+GCF_001262735.2,Vibrio harveyi,102,6
+GCF_013357865.1,Vibrio cholerae,232,6
+GCF_008369605.1,Vibrio cholerae,156,6
+GCF_057368525.1,Aliivibrio friggae,89,6
+GCF_030220165.1,Vibrio vulnificus,209,6
+GCF_023716625.1,Vibrio sp. SCSIO 43153,124,6
+GCF_009763645.1,Vibrio parahaemolyticus,126,6
+GCF_002212025.1,Vibrio anguillarum,231,6
+GCF_049816605.1,Vibrio parahaemolyticus,123,6
+GCF_057368475.1,Aliivibrio friggae,90,6
+GCF_032841475.3,Vibrio cholerae,130,6
+GCF_056820805.1,Vibrio vulnificus,215,6
+GCF_025258925.1,Vibrio cholerae,135,6
+GCF_002290245.2,Vibrio parahaemolyticus,126,6
+GCF_009763525.1,Vibrio parahaemolyticus,121,6
+GCF_045348105.1,Vibrio vulnificus,314,5
+GCF_009763545.1,Vibrio parahaemolyticus,53,5
+GCF_059427945.1,Vibrio parahaemolyticus,111,5
+GCF_048284885.2,Vibrio parahaemolyticus,122,5
+GCF_002953975.1,Vibrio alginolyticus,81,5
+GCF_001433435.1,Vibrio vulnificus,222,5
+GCF_009763445.1,Vibrio parahaemolyticus,149,5
+GCF_023716605.1,Vibrio sp. SCSIO 43155,110,5
+GCF_030060435.1,Vibrio harveyi,109,5
+GCF_058267735.1,Vibrio parahaemolyticus,142,5
+GCF_001700835.1,Vibrio parahaemolyticus,64,5
+GCF_002953335.1,Vibrio diabolicus,144,5
+GCF_023205955.1,Vibrio parahaemolyticus,103,5
+GCF_026013235.1,Vibrio cholerae,75,5
+GCF_054111865.1,Vibrio diabolicus,148,5
+GCF_051046905.1,Vibrio cholerae,257,5
+GCF_900538065.1,Vibrio paracholerae,145,5
+GCF_054875955.1,Vibrio parahaemolyticus,141,5
+GCF_058215515.1,Vibrio cholerae,222,5
+GCF_004319645.1,Vibrio vulnificus,173,5
+GCF_002906655.1,Vibrio hyugaensis,143,5
+GCF_030238765.2,Vibrio parahaemolyticus,170,5
+GCF_003612695.1,Vibrio parahaemolyticus,178,5
+GCF_043995865.1,Vibrio sp. D3,103,5
+GCF_014274185.1,Vibrio alginolyticus,106,5
+GCF_057368455.1,Aliivibrio thorii,128,5
+GCF_001969325.1,Vibrio campbellii,88,5
+GCF_051859665.1,Vibrio alginolyticus,82,5
+GCF_052805275.1,Vibrio campbellii,138,5
+GCF_056892265.1,Vibrio alginolyticus,139,5
+GCF_009762965.1,Vibrio cholerae,237,5
+GCF_009764055.1,Vibrio parahaemolyticus,196,5
+GCF_009763625.1,Vibrio parahaemolyticus,110,5
+GCF_052375575.1,Vibrio parahaemolyticus,143,5
+GCF_045004295.1,Vibrio campbellii,120,5
+GCF_045586155.1,Vibrio diabolicus,171,5
+GCF_000354175.2,Vibrio alginolyticus NBRC 15630 = ATCC 17749,82,5
+GCF_001653775.1,Vibrio vulnificus,222,5
+GCF_056934295.1,Vibrio parahaemolyticus,95,5
+GCF_002204915.1,Vibrio vulnificus,234,5
+GCF_058119545.1,Vibrio alginolyticus,114,5
+GCF_000969265.1,Vibrio cholerae,89,5
+GCF_025917705.1,Vibrio parahaemolyticus,143,5
+GCF_053202865.1,Vibrio cholerae,197,5
+GCF_000430405.1,Vibrio parahaemolyticus O1:Kuk str. FDA_R31,93,5
+GCF_002140055.1,Vibrio campbellii,88,5
+GCF_009665315.1,Vibrio harveyi,75,5
+GCF_052772185.1,Vibrio parahaemolyticus,157,5
+GCF_030994225.1,Vibrio parahaemolyticus,53,4
+GCF_033803245.2,Vibrio cholerae,176,4
+GCF_030704285.1,Vibrio parahaemolyticus,162,4
+GCF_020041945.1,Vibrio parahaemolyticus,153,4
+GCF_049816165.1,Vibrio parahaemolyticus,148,4
+GCF_023716545.1,Vibrio sp. SCSIO 43139,181,4
+GCF_023205895.1,Vibrio parahaemolyticus,116,4
+GCF_023716645.1,Vibrio sp. SCSIO 43145,215,4
+GCF_036553415.2,Vibrio mimicus,247,4
+GCF_009762915.1,Vibrio cholerae,175,4
+GCF_034480505.1,Vibrio parahaemolyticus,53,4
+GCF_023277445.1,Vibrio sp. ED002,120,4
+GCF_032027525.2,Vibrio cholerae,184,4
+GCF_059552575.1,Photobacterium sp. HL06,41,4
+GCF_049817095.1,Vibrio owensii,88,4
+GCF_003691525.1,Vibrio parahaemolyticus,143,4
+GCF_023716705.1,Vibrio sp. SCSIO 43186,181,4
+GCF_009763705.1,Vibrio cincinnatiensis,112,4
+GCF_054568155.3,Vibrio parahaemolyticus,79,4
+GCF_049810405.1,Vibrio owensii,71,4
+GCF_022343125.1,Vibrio alginolyticus,78,4
+GCF_022869905.1,Vibrio furnissii,59,4
+GCF_004194515.1,Vibrio parahaemolyticus,138,4
+GCF_024449095.1,Vibrio coralliilyticus,181,4
+GCF_905175355.1,Vibrio sp. B1ASS3,92,4
+GCF_028885585.1,Vibrio harveyi,82,4
+GCF_057321345.1,Vibrio parahaemolyticus,79,4
+GCF_011801435.1,Vibrio alginolyticus,96,4
+GCF_055393305.1,Vibrio sp. JCM 18905,107,4
+GCF_049315005.1,Vibrio anguillarum,251,4
+GCF_046581405.1,Vibrio vulnificus,86,4
+GCF_028609665.1,Vibrio parahaemolyticus,82,4
+GCF_042940635.1,Vibrio sp. NH-UV-68,200,4
+GCF_033573735.1,Vibrio parahaemolyticus,82,4
+GCF_013368735.1,Vibrio alginolyticus,84,4
+GCF_040126105.1,Vibrio parahaemolyticus,146,4
+GCF_057625995.1,Vibrio harveyi,128,4
+GCF_001310575.2,Vibrio owensii,71,4
+GCF_001995825.2,Vibrio kanaloae,162,4
+GCF_059772125.1,Vibrio jasicida,153,4
+GCF_028885545.1,Vibrio harveyi,82,4
+GCF_009734325.1,Vibrio parahaemolyticus,154,4
+GCF_045004315.1,Vibrio campbellii,79,4
+GCF_025917725.1,Vibrio owensii,88,4
+GCF_052747775.1,Vibrio parahaemolyticus,91,4
+GCF_009763865.1,Vibrio metoecus,126,4
+GCF_030994185.1,Vibrio parahaemolyticus,204,4
+GCF_001558435.2,Vibrio harveyi,101,4
+GCF_038253855.1,Vibrio parahaemolyticus,205,4
+GCF_003085735.1,Vibrio parahaemolyticus,151,4
+GCF_039658525.1,Vibrio parahaemolyticus,151,4
+GCF_006364355.1,Vibrio furnissii,59,4
+GCF_022343185.1,Vibrio alginolyticus,62,4
+GCF_026650865.1,Vibrio parahaemolyticus,179,4
+GCF_003595585.1,Vibrio anguillarum,277,4
+GCF_014211935.1,Vibrio vulnificus,227,4
+GCF_030064615.2,Vibrio parahaemolyticus,151,4
+GCF_053220635.1,Vibrio cholerae,120,4
+GCF_009665495.1,Vibrio parahaemolyticus,138,4
+GCF_019458465.1,Vibrio cholerae,117,4
+GCF_015779285.1,Vibrio parahaemolyticus,153,4
+GCF_034428235.1,Vibrio alfacsensis,74,4
+GCF_034480485.1,Vibrio parahaemolyticus,110,4
+GCF_051131115.1,Vibrio parahaemolyticus,133,4
+GCF_022343205.1,Vibrio alginolyticus,160,4
+GCF_009665415.1,Vibrio cidicii,204,4
+GCF_028551295.1,Vibrio parahaemolyticus,151,4
+GCF_001758605.1,Vibrio parahaemolyticus,97,4
+GCF_051122595.1,Vibrio sp. K4,51,4
+GCF_002220985.3,Vibrio parahaemolyticus,115,4
+GCF_023169625.1,Vibrio alginolyticus,163,4
+GCF_023205915.1,Vibrio parahaemolyticus,65,4
+GCF_021730085.1,Vibrio parahaemolyticus,223,4
+GCF_044496695.1,Vibrio campbellii,105,4
+GCF_009763065.1,Vibrio cholerae,126,4
+GCF_053220675.1,Vibrio cholerae,136,4
+GCF_040869035.2,Vibrio sp. NTOU-M3,102,4
+GCF_057368435.1,Aliivibrio friggae,71,4
+GCF_014107515.1,Vibrio vulnificus,255,4
+GCF_028743655.1,Vibrio campbellii,47,4
+GCF_009883895.1,Vibrio parahaemolyticus,151,4
+GCF_002215135.1,Vibrio vulnificus,205,4
+GCF_000009745.1,Vibrio vulnificus YJ016,185,4
+GCF_059941805.1,Vibrio parahaemolyticus,190,4
+GCF_030994145.1,Vibrio parahaemolyticus,205,4
+GCF_001636035.1,Vibrio parahaemolyticus,102,4
+GCF_034480095.1,Vibrio parahaemolyticus,205,4
+GCF_049818045.1,Vibrio parahaemolyticus,85,4
+GCF_009665215.1,Vibrio navarrensis,191,4
+GCF_002214395.1,Vibrio rotiferianus,66,4
+GCF_053294815.1,Vibrio parahaemolyticus,151,4
+GCF_030718785.1,Vibrio cholerae,177,4
+GCF_001304775.1,Vibrio parahaemolyticus,257,4
+GCF_003612715.1,Vibrio parahaemolyticus,119,4
+GCF_009763605.1,Vibrio parahaemolyticus,115,4
+GCF_022343165.1,Vibrio alginolyticus,83,4
+GCF_059772105.1,Vibrio jasicida,104,4
+GCF_029635775.1,Vibrio misgurnus,100,3
+GCF_021730005.1,Vibrio parahaemolyticus,141,3
+GCF_041714635.1,Vibrio porteresiae,17,3
+GCF_057730795.1,Aliivibrio fischeri,50,3
+GCF_002224265.1,Vibrio vulnificus NBRC 15645 = ATCC 27562,217,3
+GCF_045689275.1,Vibrio cholerae,309,3
+GCF_025994915.1,Vibrio vulnificus,110,3
+GCF_021730065.1,Vibrio parahaemolyticus,141,3
+GCF_059941605.1,Vibrio parahaemolyticus,135,3
+GCF_022343105.1,Vibrio alginolyticus,101,3
+GCF_001469735.1,Vibrio alginolyticus,68,3
+GCF_030994165.1,Vibrio parahaemolyticus,130,3
+GCF_059692255.1,Vibrio cholerae,47,3
+GCF_028898625.1,Vibrio harveyi,79,3
+GCF_001547935.1,Vibrio tritonius,6,3
+GCF_057439735.1,Vibrio owensii,49,3
+GCF_037997145.1,Vibrio harveyi,63,3
+GCF_003691505.1,Vibrio owensii,48,3
+GCF_024442215.1,Vibrio campbellii,54,3
+GCF_058315275.1,Vibrio parahaemolyticus,123,3
+GCF_045004285.1,Vibrio campbellii,98,3
+GCF_022453845.1,Vibrio campbellii,45,3
+GCF_000186585.1,Vibrio vulnificus MO6-24/O,181,3
+GCF_024442155.1,Vibrio campbellii,151,3
+GCF_046532685.1,Vibrio parahaemolyticus,43,3
+GCF_039658545.1,Vibrio parahaemolyticus,74,3
+GCF_002887655.1,Vibrio owensii,93,3
+GCF_057784735.1,Vibrio sp. TAP-3B,27,3
+GCF_009764025.1,Vibrio mimicus,188,3
+GCF_021729985.1,Vibrio parahaemolyticus,195,3
+GCF_008693745.1,Vibrio parahaemolyticus,108,3
+GCF_000772065.1,Vibrio coralliilyticus,38,3
+GCF_001433415.1,Vibrio parahaemolyticus,112,3
+GCF_023983475.1,Aliivibrio fischeri ATCC 7744 = JCM 18803 = DSM 507,125,3
+GCF_019670025.1,Vibrio alfacsensis,58,3
+GCF_028898705.1,Vibrio harveyi,96,3
+GCF_039544385.1,Vibrio harveyi,79,3
+GCF_001908435.2,Vibrio harveyi,93,3
+GCF_000969235.1,Vibrio cholerae,89,3
+GCF_021431945.1,Vibrio cholerae,166,3
+GCF_008693685.1,Vibrio vulnificus,221,3
+GCF_024971935.1,Vibrio harveyi,102,3
+GCF_057476815.1,Vibrio alginolyticus,68,3
+GCF_013357625.1,Vibrio cholerae,188,3
+GCF_047221425.1,Vibrio cholerae,56,3
+GCF_055233655.1,Vibrio parahaemolyticus,141,3
+GCF_045278325.1,Vibrio parahaemolyticus,103,3
+GCF_045004265.1,Vibrio campbellii,98,3
+GCF_008693625.1,Vibrio parahaemolyticus,133,3
+GCF_030998145.1,Vibrio parahaemolyticus,100,3
+GCF_009764075.1,Vibrio parahaemolyticus,108,3
+GCF_001558495.2,Vibrio parahaemolyticus,141,3
+GCF_026651645.1,Vibrio alginolyticus,82,3
+GCF_053220585.1,Vibrio cholerae,97,3
+GCF_015168795.1,Vibrio cholerae,126,3
+GCF_034480135.1,Vibrio parahaemolyticus,127,3
+GCF_002021755.1,Vibrio owensii,53,3
+GCF_057730775.1,Aliivibrio fischeri,50,3
+GCF_013357645.1,Vibrio cholerae,203,3
+GCF_051352415.1,Vibrio cidicii,280,3
+GCF_024347055.1,Vibrio porteresiae DSM 19223,17,3
+GCF_013357665.1,Vibrio cholerae,167,3
+GCF_052076135.1,Vibrio sp. Vf1514,69,3
+GCF_057730755.1,Aliivibrio fischeri,50,3
+GCF_056824445.1,Vibrio rotiferianus,68,3
+GCF_053220695.1,Vibrio cholerae,124,3
+GCF_024346995.1,Vibrio palustris,21,3
+GCF_000772105.1,Vibrio tubiashii ATCC 19109,32,3
+GCF_028472865.1,Vibrio parahaemolyticus,140,3
+GCF_024347495.1,Vibrio gallaecicus,219,3
+GCF_046532695.1,Vibrio alginolyticus,78,3
+GCF_028898645.1,Vibrio harveyi,65,3
+GCF_001996365.2,Vibrio parahaemolyticus,121,3
+GCF_023169605.1,Vibrio alginolyticus,99,3
+GCF_041734175.1,Vibrio anguillarum,187,3
+GCF_009763745.1,Vibrio alginolyticus,63,3
+GCF_000328405.1,Vibrio parahaemolyticus BB22OP,74,3
+GCF_057439855.1,Vibrio coralliilyticus,56,3
+GCF_045287955.1,Vibrio parahaemolyticus,141,3
+GCF_025920025.1,Vibrio parahaemolyticus,70,3
+GCF_029023705.1,Vibrio alginolyticus,174,3
+GCF_059941785.1,Vibrio parahaemolyticus,54,3
+GCF_030994565.1,Vibrio parahaemolyticus,149,3
+GCF_023206515.1,Vibrio parahaemolyticus,97,3
+GCF_025920045.1,Vibrio parahaemolyticus,42,3
+GCF_023716845.1,Vibrio sp. SCSIO 43133,11,3
+GCF_002850455.1,Vibrio vulnificus,284,3
+GCF_057396045.1,Vibrio parahaemolyticus,132,3
+GCF_002212005.1,Vibrio anguillarum,287,3
+GCF_003691485.1,Vibrio campbellii,54,3
+GCF_053890595.1,Vibrio proteolyticus,122,3
+GCF_056934275.1,Vibrio parahaemolyticus,161,3
+GCF_059910985.1,Vibrio sinaloensis,97,3
+GCF_059692275.1,Vibrio parahaemolyticus,156,3
+GCF_028898685.1,Vibrio harveyi,87,2
+GCF_057418845.1,Salinivibrio costicola,10,2
+GCF_003591575.1,Vibrio cholerae,87,2
+GCF_023716665.1,Vibrio sp. SCSIO 43135,8,2
+GCF_002149085.1,Vibrio alginolyticus,46,2
+GCF_030291875.1,Vibrio parahaemolyticus,26,2
+GCF_057626015.1,Vibrio harveyi,34,2
+GCF_057439675.1,Vibrio owensii,33,2
+GCF_013393865.1,Vibrio parahaemolyticus,161,2
+GCF_001693615.1,Vibrio coralliilyticus,31,2
+GCF_050710195.2,Vibrio campbellii,64,2
+GCF_029541605.1,Vibrio coralliilyticus,41,2
+GCF_001695575.2,Vibrio europaeus,39,2
+GCF_021391375.1,Vibrio kanaloae,77,2
+GCF_052805255.1,Vibrio campbellii,80,2
+GCF_009763485.1,Vibrio cincinnatiensis,98,2
+GCF_002872705.2,Vibrio cyclitrophicus,9,2
+GCF_053220555.1,Vibrio cholerae,149,2
+GCF_053220495.1,Vibrio cholerae,125,2
+GCF_038695265.1,Vibrio tritonius,10,2
+GCF_002214345.1,Vibrio mediterranei,20,2
+GCF_009184745.1,Vibrio harveyi,118,2
+GCF_009763225.1,Vibrio furnissii,61,2
+GCF_009763665.1,Vibrio cholerae,88,2
+GCF_024582835.1,Vibrio japonicus,102,2
+GCF_023650915.1,Vibrio alginolyticus,119,2
+GCF_003047125.1,Vibrio vulnificus Env1,247,2
+GCF_009883855.1,Vibrio parahaemolyticus,69,2
+GCF_030580635.1,Vibrio metoecus,212,2
+GCF_057730825.1,Aliivibrio fischeri,50,2
+GCF_054850435.1,Vibrio sp. RC2502,142,2
+GCF_006517795.1,Vibrio parahaemolyticus,151,2
+GCF_047497145.1,Vibrio alginolyticus,14,2
+GCF_028898825.1,Vibrio harveyi,82,2
+GCF_030316235.1,Vibrio furnissii,32,2
+GCF_033100075.1,Vibrio parahaemolyticus,53,2
+GCF_052806215.1,Vibrio parahaemolyticus,131,2
+GCF_011306175.1,Vibrio sp. HDW18,63,2
+GCF_057368555.1,Aliivibrio friggae,50,2
+GCF_003522555.1,Vibrio vulnificus,227,2
+GCF_009763905.1,Vibrio metoecus,168,2
+GCF_026000435.1,Vibrio sp. STUT-A11,56,2
+GCF_042691635.1,Vibrio harveyi,48,2
+GCF_030064635.1,Vibrio parahaemolyticus,133,2
+GCF_003726935.1,Vibrio mediterranei,6,2
+GCF_013357885.1,Vibrio cholerae,88,2
+GCF_002119585.1,Vibrio alginolyticus,46,2
+GCF_014788305.1,Vibrio navarrensis,369,2
+GCF_948151475.1,Vibrio campbellii,207,2
+GCF_009883875.1,Vibrio parahaemolyticus,110,2
+GCF_002874615.2,Vibrio cyclitrophicus,13,2
+GCF_057785955.1,Vibrio sp. QJM3NY_27,6,2
+GCF_057439875.1,Vibrio coralliilyticus,18,2
+GCF_009938205.1,Vibrio panuliri,4,2
+GCF_024346715.1,Photobacterium swingsii,11,2
+GCF_009764115.1,Vibrio vulnificus,291,2
+GCF_003076895.1,Vibrio parahaemolyticus,78,2
+GCF_024442195.1,Vibrio campbellii,143,2
+GCF_027924785.1,Vibrio nigripulchritudo,15,2
+GCF_002149065.1,Vibrio alginolyticus,46,2
+GCF_002149105.1,Vibrio alginolyticus,46,2
+GCF_059682885.1,Vibrio harveyi,33,2
+GCF_039658515.1,Vibrio parahaemolyticus,216,2
+GCF_040412085.2,Vibrio chaetopteri,23,2
+GCF_009764005.1,Vibrio mimicus,187,2
+GCF_018135645.1,Vibrio parahaemolyticus,70,2
+GCF_028898745.1,Vibrio harveyi,78,2
+GCF_003613035.1,Vibrio alginolyticus,46,2
+GCF_009763845.1,Vibrio alginolyticus,59,2
+GCF_056531025.1,Vibrio diabolicus,19,2
+GCF_024347535.1,Vibrio kanaloae,114,2
+GCF_038070605.1,Vibrio parahaemolyticus,64,2
+GCF_002119545.1,Vibrio alginolyticus,46,2
+GCF_011212705.1,Vibrio coralliilyticus OCN008,53,2
+GCF_050507685.1,Vibrio alginolyticus,61,2
+GCF_029224045.1,Vibrio furnissii,74,2
+GCF_057785975.1,Vibrio sp. QJM3NY_21,14,2
+GCF_003613065.1,Vibrio alginolyticus,46,2
+GCF_003312585.1,Vibrio campbellii,99,2
+GCF_028898725.1,Vibrio harveyi,88,2
+GCF_029958905.1,Vibrio sp. YMD68,94,2
+GCF_057814595.1,Aliivibrio fischeri,54,2
+GCF_039542195.1,Vibrio harveyi,88,2
+GCF_000024825.1,Vibrio antiquarius,77,2
+GCF_009665255.1,Vibrio metoecus,151,2
+GCF_057730715.1,Aliivibrio fischeri,50,2
+GCF_001558515.2,Vibrio vulnificus,303,2
+GCF_057418855.1,Salinivibrio costicola,10,2
+GCF_040315585.1,Vibrio metschnikovii,161,2
+GCF_030388405.1,Vibrio harveyi,80,2
+GCF_003119375.1,Vibrio parahaemolyticus,78,2
+GCF_023650755.1,Vibrio sp. SCSIO 43097,148,2
+GCF_002119505.2,Vibrio alginolyticus,46,2
+GCF_009763765.1,Vibrio metschnikovii,39,2
+GCF_044784405.1,Vibrio cholerae,49,2
+GCF_031883075.1,Vibrio vulnificus,117,2
+GCF_003345295.1,Vibrio splendidus,4,2
+GCF_030059845.1,Vibrio parahaemolyticus,90,2
+GCF_050815385.1,Vibrio harveyi,75,2
+GCF_013357605.1,Vibrio cholerae,100,2
+GCF_053220575.1,Vibrio cholerae,149,2
+GCF_051175305.1,Vibrio scophthalmi,95,2
+GCF_000196495.1,Aliivibrio salmonicida LFI1238,22,2
+GCF_032463505.1,Vibrio alginolyticus,122,2
+GCF_054053365.1,Vibrio coralliilyticus,31,2
+GCF_046271895.1,Vibrio parahaemolyticus,68,2
+GCF_022343085.1,Vibrio alginolyticus,35,2
+GCF_057730835.1,Aliivibrio fischeri,66,2
+GCF_059683725.1,Aliivibrio fischeri,47,2
+GCF_054512795.1,Vibrio harveyi,97,2
+GCF_019321785.1,Vibrio parahaemolyticus,134,2
+GCF_009764095.1,Vibrio vulnificus,84,2
+GCF_009883835.1,Vibrio parahaemolyticus,103,2
+GCF_027924845.1,Vibrio nigripulchritudo,15,2
+GCF_003391375.1,Vibrio coralliilyticus,31,2
+GCF_003942025.1,Aliivibrio salmonicida,29,2
+GCF_054112565.1,Vibrio metschnikovii,154,2
+GCF_002119565.1,Vibrio alginolyticus,46,2
+GCF_002119525.1,Vibrio syngnathi,3,2
+GCF_000039765.1,Vibrio vulnificus CMCP6,202,2
+GCF_053643215.1,Vibrio sp. NH-7,78,2
+GCF_014083925.1,Vibrio spartinae,8,1
+GCF_055389885.1,Vibrio cholerae,99,1
+GCF_028743695.1,Vibrio alginolyticus,72,1
+GCF_001879585.1,Vibrio parahaemolyticus,136,1
+GCF_024347315.1,Vibrio atlanticus,0,1
+GCF_030994065.1,Vibrio fluvialis,3,1
+GCF_001687805.1,Vibrio scophthalmi,88,1
+GCF_000011805.1,Aliivibrio fischeri ES114,30,1
+GCF_001244315.1,Vibrio parahaemolyticus,124,1
+GCF_009763045.1,Vibrio cholerae,99,1
+GCF_022343145.1,Vibrio alginolyticus,67,1
+GCF_000568495.1,Vibrio parahaemolyticus UCM-V493,112,1
+GCF_001767355.1,Vibrio mimicus,90,1
+GCF_024346795.1,Vibrio breoganii,1,1
+GCF_002953535.1,Vibrio alginolyticus,148,1
+GCF_001952955.1,Vibrio fluvialis,5,1
+GCF_057368615.1,Aliivibrio logei,46,1
+GCF_049816615.1,Vibrio owensii,89,1
+GCF_009763925.1,Vibrio metschnikovii,141,1
+GCF_000746665.1,Vibrio vulnificus,81,1
+GCF_009938185.1,Vibrio taketomensis,3,1
+GCF_009601765.2,Vibrio algicola,4,1
+GCF_015097735.1,Vibrio nigripulchritudo,9,1
+GCF_030563405.1,Vibrio sp. SNU_ST1,3,1
+GCF_055699095.1,Vibrio campbellii,29,1
+GCF_040805305.1,Vibrio cholerae,111,1
+GCF_049821485.1,Vibrio tubiashii,26,1
+GCF_010587385.1,Vibrio astriarenae,7,1
+GCF_057439715.1,Vibrio owensii,51,1
+GCF_057785995.1,Vibrio sp. QJM3NY_15,3,1
+GCF_009763025.1,Vibrio parahaemolyticus,85,1
+GCF_002211505.1,Vibrio anguillarum,84,1
+GCF_045291255.1,Vibrio scophthalmi,35,1
+GCF_049563345.1,Vibrio mytili,3,1
+GCF_034480385.1,Vibrio fluvialis,3,1
+GCF_027286365.1,Salinivibrio proteolyticus,6,1
+GCF_002313025.1,Vibrio cholerae,120,1
+GCF_048284855.2,Vibrio harveyi,75,1
+GCF_024347635.1,Vibrio tasmaniensis,3,1
+GCF_000801275.2,Vibrio nigripulchritudo,8,1
+GCF_023195835.1,Vibrio sinaloensis,40,1
+GCF_002873935.2,Vibrio cyclitrophicus,12,1
+GCF_002157735.2,Vibrio aphrogenes,2,1
+GCF_024442175.1,Vibrio campbellii,95,1
+GCF_041950465.1,Vibrio alginolyticus,33,1
+GCF_027924725.1,Vibrio nigripulchritudo,9,1
+GCF_045004305.1,Vibrio campbellii,103,1
+GCF_046097525.1,Vibrio cholerae,104,1
+GCF_021610025.1,Vibrio anguillarum,84,1
+GCF_026000495.1,Vibrio sp. STUT-A16,124,1
+GCF_050888945.2,Vibrio parahaemolyticus,95,1
+GCF_003399575.2,Vibrio anguillarum,84,1
+GCF_027286325.1,Salinivibrio kushneri,4,1
+GCF_003691545.1,Vibrio owensii,105,1
+GCF_048300935.1,Vibrio scophthalmi,25,1
+GCF_057418915.1,Salinivibrio costicola,6,1
+GCF_058545285.1,Vibrio sp. KMM 9700,18,1
+GCF_009762945.1,Vibrio cholerae,120,1
+GCF_009763405.1,Vibrio parahaemolyticus,14,1
+GCF_001679745.1,Vibrio alginolyticus,17,1
+GCF_030316215.1,Vibrio furnissii,25,1
+GCF_047549585.1,Vibrio europaeus,41,1
+GCF_053220715.1,Vibrio cholerae,132,1
+GCF_029203225.1,Vibrio alginolyticus,60,1
+GCF_000462975.1,Vibrio anguillarum M3,81,1
+GCF_056097205.1,Vibrio splendidus,3,1
+GCF_041475595.1,Vibrio natriegens,30,1
+GCF_028551255.1,Vibrio tubiashii,18,1
+GCF_002196515.1,Vibrio gazogenes,7,1
+GCF_009763885.1,Vibrio cincinnatiensis,205,1
+GCF_057785915.1,Vibrio sp. QJM3NY_35,15,1
+GCF_024442235.1,Vibrio campbellii,60,1
+GCF_059641075.1,Vibrio coralliilyticus,32,1
+GCF_002874845.2,Vibrio cyclitrophicus,21,1
+GCF_000786425.1,Vibrio anguillarum,84,1
+GCF_028885605.1,Vibrio harveyi,32,1
+GCF_059725505.1,Vibrio sp. KUL78,2,1
+GCF_021432065.1,Photobacterium sp. TLY01,2,1
+GCF_024347595.1,Vibrio pomeroyi,2,1
+GCF_002142655.1,Vibrio campbellii,64,1
+GCF_009883815.1,Vibrio parahaemolyticus,70,1
+GCF_024347295.1,Vibrio artabrorum,81,1
+GCF_009763345.1,Vibrio furnissii,29,1
+GCF_059983175.1,Vibrio harveyi,40,1
+GCF_002287545.1,Vibrio anguillarum,87,1
+GCF_057418905.1,Salinivibrio costicola,6,1
+GCF_003031205.1,Vibrio anguillarum,83,1
+GCF_018140575.1,Vibrio fluvialis,3,1
+GCF_057439695.1,Vibrio owensii,54,1
+GCF_033441435.1,Vibrio parahaemolyticus,94,1
+GCF_024347655.1,Vibrio toranzoniae,127,1
+GCF_014879975.1,Vibrio bathopelagicus,3,1
+GCF_034480305.1,Vibrio alginolyticus,103,1
+GCF_000091465.1,Vibrio atlanticus,10,1
+GCF_009665395.1,Vibrio cincinnatiensis,170,1
+GCF_053220655.1,Vibrio cholerae,135,1
+GCF_001887055.1,Vibrio parahaemolyticus,124,1
+GCF_025397955.1,Vibrio sp. J502,84,1
+GCF_023221655.1,Vibrio crassostreae,6,1
+GCF_007182835.1,Vibrio rotiferianus,63,1
+GCF_024347475.1,Vibrio fortis,4,1
+GCF_000217675.1,Vibrio anguillarum 775,81,1
+GCF_009763725.1,Vibrio navarrensis,292,1
+GCF_032841535.3,Vibrio cholerae,83,1
+GCF_009763425.1,Vibrio parahaemolyticus,75,1
+GCF_002953395.1,Vibrio diabolicus,53,1
+GCF_030995125.1,Vibrio alginolyticus,139,1
+GCF_040588515.1,Vibrio metschnikovii,168,1
+GCF_020717785.1,Vibrio diabolicus,20,1
+GCF_001680065.1,Vibrio natriegens,22,1
+GCF_002117205.1,Vibrio vulnificus,129,1
+GCF_040969975.1,Vibrio diabolicus,132,1
+GCF_002216685.1,Vibrio tarriae,116,1
+GCF_024347575.1,Vibrio pelagius,3,1
+GCF_040235185.1,Vibrio metschnikovii,108,1
+GCF_016812015.1,Vibrio diabolicus,12,1
+GCF_021441885.1,Vibrio maritimus,8,1
+GCF_002291265.1,Vibrio anguillarum,86,1
+GCF_023151555.2,Photobacterium sp. CCB-ST2H9,23,1
+GCF_023206035.1,Vibrio cyclitrophicus,7,1
+GCF_000184325.1,Vibrio furnissii NCTC 11218,58,1
+GCF_053220515.1,Vibrio cholerae,133,1
+GCF_964198015.1,Vibrio splendidus,8,1
+GCF_001456255.1,Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759,4,0
+GCF_048537445.1,Photobacterium leiognathi subsp. mandapamensis,1,0
+GCF_052591495.1,Vibrio harveyi,62,0
+GCF_024347615.1,Vibrio splendidus,2,0
+GCF_014775695.1,Photobacterium damselae subsp. piscicida,2,0
+GCF_028621875.1,Photobacterium sp. GSS17,6,0
+GCF_024494545.1,Photobacterium toruni,3,0
+GCF_054110305.1,Vibrio natriegens,4,0
+GCF_041879375.1,Vibrio kanaloae,30,0
+GCF_059920555.1,Photobacterium panuliri,1,0
+GCF_030297535.1,Vibrio fluvialis,7,0
+GCF_051132395.1,Vibrio chagasii,8,0
+GCF_017329545.1,Photobacterium ganghwense,1,0
+GCF_058072945.1,Photobacterium leiognathi subsp. mandapamensis,1,0
+GCF_035621455.1,Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759,4,0
+GCF_002876425.2,Vibrio cyclitrophicus,8,0
+GCF_905175385.1,Vibrio sp. B1FLJ16,14,0
+GCF_059740915.1,Photobacterium damselae subsp. damselae,2,0
+GCF_009763185.1,Vibrio fluvialis,2,0
+GCF_034480175.1,Vibrio alginolyticus,6,0
+GCF_059739285.1,Vibrio halioticoli,0,0
+GCF_009763585.1,Grimontia hollisae,0,0
+GCF_023746615.1,Grimontia kaedaensis,7,0
+GCF_009764155.1,Grimontia hollisae,0,0
+GCF_038452265.1,Vibrio diazotrophicus,24,0
+GCF_058105105.1,Vibrio spartinae,2,0
+GCF_000256265.3,Vibrio cyclitrophicus ZF14,6,0
+GCF_009763785.1,Vibrio fluvialis,5,0
+GCF_057418875.1,Salinivibrio kushneri,3,0
+GCF_055808855.1,Vibrio sp. GJ41-3,3,0
+GCF_040869025.1,Vibrio scophthalmi,47,0
+GCF_002887615.1,Vibrio jasicida 090810c,57,0
+GCF_027286345.1,Salinivibrio kushneri,6,0
+GCF_046532705.1,Vibrio chagasii,5,0
+GCF_024347335.1,Vibrio celticus,0,0
+GCF_059704325.2,Grimontia sp. THUN1695,0,0
+GCF_002873825.2,Vibrio cyclitrophicus,9,0
+GCF_002873285.2,Vibrio cyclitrophicus,7,0
+GCF_051858925.1,Salinivibrio costicola,1,0
+GCF_024347435.1,Vibrio cyclitrophicus,4,0
+GCF_028898665.1,Vibrio harveyi,9,0
+GCF_052955985.1,Vibrio sp. B1Z05,3,0
+GCF_009763465.1,Vibrio fluvialis,5,0
+GCF_059739265.1,Vibrio superstes,4,0
+GCF_054053395.1,Vibrio paucivorans,9,0
+GCF_021768405.1,Photobacterium damselae subsp. damselae,1,0
+GCF_002877465.2,Vibrio cyclitrophicus,4,0
+GCF_002310335.1,Vibrio anguillarum,103,0
+GCF_059725495.1,Vibrio sp. KUL80,1,0
+GCF_057439745.1,Vibrio tubiashii,5,0
+GCF_019226825.1,Vibrio ostreae,1,0
+GCF_019977815.1,Vibrio penaeicida,47,0
+GCF_053202905.1,Photobacterium damselae subsp. piscicida,2,0
+GCF_059740845.1,Photobacterium damselae subsp. damselae,1,0
+GCF_009708195.1,Vibrio sp. THAF191c,34,0
+GCF_002874905.2,Vibrio cyclitrophicus,9,0
+GCF_053903115.1,Vibrio sp. AK197,48,0
+GCF_002218045.2,Vibrio rumoiensis,3,0
+GCF_002163755.1,Vibrio campbellii CAIM 519 = NBRC 15631 = ATCC 25920,96,0
+GCF_042245395.1,Vibrio iocasae,4,0
+GCF_036825535.1,Parasalinivibrio latis,2,0
+GCF_057786035.1,Enterovibrio sp. QJM3NY_24,2,0
+GCF_019703835.1,Thaumasiovibrio subtropicus,1,0
+GCF_048537525.1,Photobacterium leiognathi subsp. mandapamensis,1,0
+GCF_000241385.1,Vibrio sp. EJY3,24,0
+GCF_002953375.1,Vibrio fluvialis,1,0
+GCF_019904195.1,Vibrio sp. SCSIO 43132,5,0
+GCF_024347015.1,Vibrio pectenicida,1,0
+GCF_009764195.1,Vibrio fluvialis,0,0
+GCF_059683745.1,Vibrio campbellii,18,0
+GCF_002796765.2,Vibrio fluvialis,7,0
+GCF_002218025.2,Vibrio casei,1,0
+GCF_060345765.1,Vibrio methylphosphonaticus,9,0
+GCF_009938165.1,Vibrio taketomensis,3,0
+GCF_024347035.1,Vibrio plantisponsor,10,0
+GCF_011064285.1,Vibrio ziniensis,3,0
+GCF_041879385.1,Vibrio kanaloae,30,0
+GCF_057418885.1,Salinivibrio kushneri,2,0
+GCF_014217295.1,Vibrio parahaemolyticus,52,0
+GCF_001677275.1,Vibrio breoganii,1,0
+GCF_024347375.1,Vibrio coralliirubri,3,0
+GCF_055808915.1,Vibrio splendidus,5,0
+GCF_023716585.1,Vibrio sp. SCSIO 43140,2,0
+GCF_031884875.1,Vibrio ruber,3,0
+GCF_030062095.1,Vibrio furnissii,5,0
+GCF_023503985.1,Vibrio sp. J383,5,0
+GCF_024347415.1,Vibrio crassostreae,6,0
+GCF_027286385.1,Salinivibrio kushneri,6,0
+GCF_037997135.1,Photobacterium damselae subsp. piscicida,1,0
+GCF_019977795.1,Vibrio penaeicida,51,0
+GCF_009665335.1,Vibrio furnissii,6,0
+GCF_963681195.1,Vibrio sp. 16,48,0
+GCF_002875465.2,Vibrio cyclitrophicus,12,0
+GCF_009676865.1,Vibrio sp. THAF191d,34,0
+GCF_937000115.1,Vibrio cholerae,94,0
+GCF_001680085.1,Vibrio natriegens,18,0
+GCF_022811945.1,Vibrio splendidus,6,0
+GCF_016920955.1,Vibrio sp. sp1,16,0
+GCF_002874035.2,Vibrio cyclitrophicus,4,0
+GCF_013181325.1,Vibrio fluvialis,5,0
+GCF_024347355.1,Vibrio chagasii,4,0
+GCF_022832815.1,Vibrio natriegens,14,0
+GCF_023920225.1,Vibrio gazogenes,3,0
+GCF_011765565.1,Salinivibrio costicola,3,0
+GCF_023716525.1,Vibrio sp. SCSIO 43009,60,0
+GCF_024347135.1,Vibrio spartinae,3,0
+GCF_002850295.1,Vibrio harveyi,8,0
+GCF_053515815.1,Vibrio furnissii,14,0
+GCF_057439755.1,Vibrio tubiashii,21,0
+GCF_024529955.1,Photobacterium toruni,2,0
+GCF_009363415.1,Vibrio aquimaris,1,0
+GCF_024508015.1,Vibrio natriegens,4,0
+GCF_058410825.1,Photobacterium damselae subsp. piscicida,2,0
+GCF_022371215.1,Vibrio gigantis,1,0
+GCF_019977835.1,Vibrio penaeicida,47,0
+GCF_055391395.1,Vibrio sabulosilitoris,1,0
+GCF_057418865.1,Salinivibrio kushneri,0,0
+GCF_020806305.2,Vibrio sp. F13,5,0
+GCF_023716565.1,Vibrio sp. SCSIO 43136,96,0
+GCF_037746055.1,Vibrio natriegens,4,0
+GCF_009665435.1,Vibrio alginolyticus,40,0
+GCF_024347515.1,Vibrio gigantis,3,0
+GCF_030169025.1,Photobacterium damselae,2,0
+GCF_002953515.1,Vibrio alginolyticus,74,0
+GCF_059725515.1,Vibrio sp. KUL70,0,0
+GCF_024346755.1,Vibrio aerogenes,1,0
+GCF_049315015.1,Photobacterium leiognathi subsp. mandapamensis,2,0
+GCF_035758505.1,Grimontia sp. NTOU-MAR1,20,0
+GCF_009363355.1,Vibrio sp. THAF190c,7,0
+GCF_001680025.1,Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759,3,0
+GCF_009762895.1,Vibrio cholerae,94,0
+GCF_024220035.1,Vibrio furnissii,74,0
+GCF_029910115.1,Vibrio lentus,2,0
+GCF_015594925.2,Vibrio sp. VB16,1,0
+GCF_004135105.1,Photobacterium damselae subsp. damselae,1,0
+GCF_025398175.1,Photobacterium sp. TY1-4,0,0
+GCF_051201655.1,Vibrio sp. nBUS_14,1,0
+GCF_002875015.2,Vibrio cyclitrophicus,18,0
+GCF_057785935.1,Vibrio sp. QJM3NY_34,1,0
+GCF_048844225.1,Vibrio alginolyticus,0,0
+GCF_030991385.1,Vibrio alginolyticus,6,0
+GCF_004916735.1,Salinivibrio sp. YCSC6,2,0
+GCF_002873745.2,Vibrio cyclitrophicus,10,0
+GCF_026639315.1,Vibrio alginolyticus,1,0
+GCF_025264605.1,Vibrio splendidus,2,0
+GCF_040957575.1,Vibrio sp. HB236076,1,0
+GCF_060497015.1,Vibrio fluvialis,4,0
+GCF_024346675.1,Photobacterium sanguinicancri,12,0
+GCF_000464435.1,Vibrio campbellii ATCC BAA-1116,0,0
+GCF_057439805.1,Vibrio tubiashii,22,0
+GCF_024347075.1,Vibrio rarus,2,0
+GCF_001685465.1,Vibrio scophthalmi,81,0
+GCF_026001925.1,Vibrio gangliei,16,0
+GCF_005280275.1,Salinivibrio kushneri,7,0
+GCF_049187005.1,Vibrio natriegens,4,0
+GCF_028898925.1,Vibrio fluvialis,6,0
+GCF_021768365.1,Photobacterium damselae subsp. damselae,1,0
+GCF_029223585.1,Photobacterium sp. DA100,6,0
+GCF_056234105.1,Photobacterium damselae subsp. piscicida,1,0
+GCF_002906475.1,Vibrio campbellii,67,0
+GCF_024346915.1,Vibrio gazogenes,3,0
+GCF_029962385.1,Vibrio sp. ABG19,0,0
+GCF_905175365.1,Vibrio sp. B1FLJ16,0,0
+GCF_002872815.2,Vibrio cyclitrophicus,17,0
+GCF_024362845.1,Vibrio pelagius,0,0
+GCF_000017705.1,Vibrio campbellii ATCC BAA-1116,0,0
+GCF_024347155.1,Vibrio zhugei,8,0
+GCF_001558255.2,Grimontia hollisae,0,0
+GCF_059641095.1,Vibrio coralliilyticus,17,0
+GCF_045679545.1,Enterovibrio litoreus,23,0
+GCF_003716875.1,Vibrio zhugei,8,0
+GCF_057786005.1,Vibrio sp. QJM3NY_26,3,0
+GCF_048537505.1,Photobacterium leiognathi subsp. mandapamensis,1,0
+GCF_030991365.1,Vibrio alginolyticus,63,0
+GCF_900233005.1,Vibrio tapetis subsp. tapetis,3,0
+GCF_038442155.1,Vibrio cyclitrophicus ZF270,4,0
+GCF_019977775.1,Vibrio penaeicida,51,0
+GCF_000763535.1,Vibrio coralliilyticus,11,0
+GCF_041879395.1,Vibrio cyclitrophicus,21,0
+GCF_055808835.1,Vibrio sp. GJ43-1,73,0
+GCF_002356235.1,Photobacterium damselae subsp. piscicida,1,0
+GCF_055390995.1,Vibrio sabulosilitoris,1,0
+GCF_038297345.1,Vibrio alginolyticus,63,0
+GCF_056836685.1,Photobacterium damselae subsp. damselae,1,0
+GCF_002874015.2,Vibrio cyclitrophicus,3,0
+GCF_015654285.1,Vibrio europaeus,63,0
+GCF_001558415.2,Vibrio fluvialis,2,0
+GCF_009764215.1,Vibrio fluvialis,0,0
+GCF_013154935.1,Vibrio europaeus,65,0
+GCF_056234175.1,Photobacterium damselae subsp. piscicida,1,0
+GCF_003443775.1,Vibrio sp. dhg,9,0
+GCF_033947405.2,Vibrio fluvialis,2,0
+GCF_001680045.1,Vibrio natriegens,3,0
+GCF_057785895.1,Vibrio sp. QJM3NY_39,1,0
+GCF_041879425.1,Vibrio pomeroyi,3,0
+GCF_019977755.1,Vibrio penaeicida,51,0
+GCF_030144385.1,Vibrio fluvialis,3,0
+GCF_002142615.1,Photobacterium damselae subsp. damselae,1,0
+GCF_021249365.1,Vibrio furnissii,32,0
+GCF_011801455.1,Vibrio diabolicus,113,0
+GCF_009363455.1,Vibrio sp. THAF64,34,0
+GCF_023169825.1,Vibrio cholerae,95,0
+GCF_041860215.1,Vibrio gazogenes,3,0
+GCF_965140425.1,Photobacterium ganghwense,1,0
+GCF_005144905.1,Vibrio cyclitrophicus,13,0
