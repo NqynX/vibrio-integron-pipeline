@@ -232,3 +232,22 @@ data/reference_genomes/*/md5sum.txt
 # Stray files
 dataformat
 --*
+
+# --- large data, never commit ---
+data/complete_vibrionaceae/genomes/
+data/complete_vibrionaceae/rehy/
+data/reference_genomes/*/ncbi_dataset/
+results/scale/
+results/control/
+results/hattci/
+analysis/per_genome_faa/
+analysis/Pfam-A.hmm*
+analysis/clust_all_seqs.fasta
+analysis/clust_rep_seq.fasta
+analysis/tmp/
+tools/HattCI/
+genome_list.txt
+defense_list.txt
+*.fna
+*.faa
+*.zip
