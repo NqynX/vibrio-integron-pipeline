@@ -251,3 +251,17 @@ defense_list.txt
 *.fna
 *.faa
 *.zip
+
+# SLURM logs — thousands of files, not worth versioning
+logs/
+# large analysis intermediates (regenerable)
+analysis/clust_cluster.tsv
+analysis/clust_rep_seq.fasta.idx
+analysis/protein_meta.csv
+analysis/pfam_reps.tbl
+analysis/mash/
+analysis/defense_per_genome/
+hattci_list.txt
+defense_list.txt
+outHattCI.fasta
+environments/ivip_src/
