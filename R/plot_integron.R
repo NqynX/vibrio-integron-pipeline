@@ -69,3 +69,75 @@ plot_integron <- function(d, row_width = 25000, title = NULL) {
     theme(axis.text.y = element_blank(), panel.grid = element_blank(),
           legend.position = "top", plot.subtitle = element_text(colour = "grey45"))
 }
+
+# ---- v0.2: layered multi-track region view (ggcoverage-style) ----
+suppressPackageStartupMessages({library(patchwork)})
+
+# Build 7-point arrow polygons for a set of genes (proper gene glyphs).
+gene_arrows <- function(g, hb = 0.22, ht = 0.34, head_bp = 300) {
+  do.call(rbind, lapply(seq_len(nrow(g)), function(i) {
+    x0 <- g$gx0[i]; x1 <- g$gx1[i]; fwd <- isTRUE(g$fwd[i])
+    hl <- min(head_bp, x1 - x0)
+    if (fwd) { hs <- x1 - hl
+      px <- c(x0, hs, hs, x1, hs, hs, x0)
+    } else {  hs <- x0 + hl
+      px <- c(x1, hs, hs, x0, hs, hs, x1) }
+    py <- c(-hb, -hb, -ht, 0, ht, hb, hb)
+    data.frame(id = g$element[i], x = px, y = py, fill = g$fill[i])
+  }))
+}
+
+plot_region_tracks <- function(d, from = NULL, to = NULL, title = NULL) {
+  s <- attr(d, "start"); e <- attr(d, "end")
+  if (is.null(from)) from <- s
+  if (is.null(to))   to   <- min(e, s + 20000)
+  d <- dplyr::mutate(d, gx0 = pmin(pos_beg, pos_end),
+                        gx1 = pmax(pos_beg, pos_end),
+                        fwd = is.na(strand) | strand >= 0)
+  genes <- d |> dplyr::filter(category %in% c("cassette","integrase"),
+                              gx1 >= from, gx0 <= to) |>
+    dplyr::mutate(fill = ifelse(category == "integrase", "intI",
+                         ifelse(fwd, "forward", "reverse")))
+  attc  <- d |> dplyr::filter(category == "attC",
+                              pos_beg >= from, pos_beg <= to) |>
+    dplyr::mutate(mid = (pos_beg + pos_end)/2)
+  cds   <- genes |> dplyr::filter(category == "cassette") |>
+    dplyr::mutate(mid = (gx0 + gx1)/2, len = gx1 - gx0)
+  arr <- gene_arrows(genes)
+
+  pal <- c(intI = "#E45756", forward = "#4C78A8", reverse = "#72B7B2")
+  xs  <- ggplot2::scale_x_continuous(
+           limits = c(from, to), expand = ggplot2::expansion(mult = 0.01),
+           labels = function(v) round(v/1000, 1))
+  blank_x <- ggplot2::theme(axis.text.x = ggplot2::element_blank(),
+                            axis.title.x = ggplot2::element_blank())
+
+  t1 <- ggplot2::ggplot(arr, ggplot2::aes(x, y, group = id, fill = fill)) +
+    ggplot2::geom_polygon(colour = "grey25", linewidth = 0.15) +
+    ggplot2::scale_fill_manual(values = pal, name = NULL) + xs +
+    ggplot2::coord_cartesian(ylim = c(-0.55, 0.55)) +
+    ggplot2::labs(title = title, y = "cassettes") +
+    ggplot2::theme_minimal(base_size = 11) +
+    ggplot2::theme(axis.text.y = ggplot2::element_blank(),
+                   panel.grid = ggplot2::element_blank(),
+                   legend.position = "top") + blank_x
+
+  t2 <- ggplot2::ggplot(attc) +
+    ggplot2::geom_segment(ggplot2::aes(mid, 0, xend = mid, yend = 1),
+                          colour = "#F58518", linewidth = 0.4) +
+    ggplot2::geom_point(ggplot2::aes(mid, 1), shape = 18, size = 2.2,
+                        colour = "#F58518") + xs +
+    ggplot2::coord_cartesian(ylim = c(0, 1.25)) +
+    ggplot2::labs(y = "attC") + ggplot2::theme_minimal(base_size = 11) +
+    ggplot2::theme(axis.text.y = ggplot2::element_blank(),
+                   panel.grid = ggplot2::element_blank()) + blank_x
+
+  t3 <- ggplot2::ggplot(cds) +
+    ggplot2::geom_col(ggplot2::aes(mid, len, fill = fill), width = 280) +
+    ggplot2::scale_fill_manual(values = pal, guide = "none") + xs +
+    ggplot2::labs(y = "length (bp)", x = "genomic position (kb)") +
+    ggplot2::theme_minimal(base_size = 11) +
+    ggplot2::theme(panel.grid.minor = ggplot2::element_blank())
+
+  t1 / t2 / t3 + patchwork::plot_layout(heights = c(3, 1, 2))
+}
