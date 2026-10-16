@@ -1,8 +1,11 @@
 # vibrio-integron-pipeline — Development log
 
 **Student:** Liam Nguyen (48596804)
+
 **Course:** SCIE3220 research project
+
 **Supervisor:** Jan Engelstädter (Engelstädter Lab)
+
 **Compute:** UQ Bunya HPC cluster (micromamba environments, SLURM)
 
 This repository holds the day-to-day development of the project: detection-tool
