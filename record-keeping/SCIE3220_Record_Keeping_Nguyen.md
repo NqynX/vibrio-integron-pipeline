@@ -110,7 +110,7 @@
 
 **Results.** IntegronFinder `--local-max` recall fell from 1.00 to 0.06 by 15% random divergence, but was 0.48 at 15% and 0.36 at 25% under compensatory divergence; HattCI declined almost identically under both schemes. Structure preservation rescues the covariance-model tool but not the sequence HMM — the controlled version of the *A. fischeri* result.
 
-**Honest limits.** The inserted attC are real 569B sites IntegronFinder first called (a selection bias), so the comparison rests on the slope of recall against divergence and the gap between schemes, not the starting value; complementarity at the chosen positions is a construction, not a validated fold; with one realisation per condition the trends are descriptive, not statistical.
+**Limitations.** The inserted attC are real 569B sites IntegronFinder first called (a selection bias), so the comparison rests on the slope of recall against divergence and the gap between schemes, not the starting value; complementarity at the chosen positions is a construction, not a validated fold; with one realisation per condition the trends are descriptive, not statistical.
 
 ---
 
