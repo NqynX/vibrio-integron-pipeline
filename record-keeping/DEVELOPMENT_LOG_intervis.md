@@ -1,7 +1,9 @@
 # intervis — Development log
 
 **Student:** Liam Nguyen (48596804)
+
 **Course:** SCIE3220 research project
+
 **Supervisor:** Jan Engelstädter (Engelstädter Lab)
 
 intervis is an integron-native viewer for Vibrionaceae cassette arrays. It runs
