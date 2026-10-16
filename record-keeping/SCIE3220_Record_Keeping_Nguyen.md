@@ -1,9 +1,13 @@
 # SCIE3220 Research Project — Record Keeping
 
 **Student:** Liam Nguyen (48596804)
+
 **Project:** Development of a bioinformatics pipeline for identifying and visualising integron cassette arrays in *Vibrio* genomes (intervis)
+
 **Supervisor:** Jan Engelstädter (Engelstädter Lab)
+
 **Code and data:** development repository `vibrio-integron-pipeline`; released tool https://github.com/NqynX/intervis
+
 **Compute:** UQ Bunya HPC cluster (micromamba environments, SLURM)
 
 ---
